@@ -1,9 +1,9 @@
 # BMI Calculator - Test-Driven Development (TDD) Project
 
 Project Files
-  bmi.cpp - Contains 'calculateBMI()' and 'getBMICategory()' functions.
-  main.cpp - CLI Application
-  test_bmi.cpp - Unit and Boundary Tests
+  - bmi.cpp - Contains 'calculateBMI()' and 'getBMICategory()' functions.
+  - main.cpp - CLI Application
+  - test_bmi.cpp - Unit and Boundary Tests
 
 Compilation Instructions
  - Have g++ installed
